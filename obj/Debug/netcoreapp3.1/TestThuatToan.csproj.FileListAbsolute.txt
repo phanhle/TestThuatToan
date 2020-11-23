@@ -1,0 +1,13 @@
+E:\programming code\TDT\TestThuatToan\bin\Debug\netcoreapp3.1\TestThuatToan.exe
+E:\programming code\TDT\TestThuatToan\bin\Debug\netcoreapp3.1\TestThuatToan.deps.json
+E:\programming code\TDT\TestThuatToan\bin\Debug\netcoreapp3.1\TestThuatToan.runtimeconfig.json
+E:\programming code\TDT\TestThuatToan\bin\Debug\netcoreapp3.1\TestThuatToan.runtimeconfig.dev.json
+E:\programming code\TDT\TestThuatToan\bin\Debug\netcoreapp3.1\TestThuatToan.dll
+E:\programming code\TDT\TestThuatToan\bin\Debug\netcoreapp3.1\TestThuatToan.pdb
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.csprojAssemblyReference.cache
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.AssemblyInfoInputs.cache
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.AssemblyInfo.cs
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.csproj.CoreCompileInputs.cache
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.dll
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.pdb
+E:\programming code\TDT\TestThuatToan\obj\Debug\netcoreapp3.1\TestThuatToan.genruntimeconfig.cache
